@@ -5,7 +5,7 @@ Here We'll try to compile the day wise learning for [Unity](https://unity.com/) 
 
 We'll divide our module as:
 
-- [ ] [Installing Unity & dependencies](Installing/README.md)
+- [X] [Installing Unity & dependencies](Installing/README.md)
 - [ ] [Understanding Interface]()
 - [ ] [Understanding UI elements]() 
 - [ ] [Exploring AR persepective]()
