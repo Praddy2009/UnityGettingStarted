@@ -4,13 +4,13 @@ First of all we need to setup the infrastructure and other necessary dependencie
 
 > Installing Unity Hub
 
-1. Download Unity Hub[(https://unity3d.com/get-unity/download)].
+1. **Download Unity Hub**[(https://unity3d.com/get-unity/download)].
 
    You can consider Unity Hub as the one stop portal for downloading Unity with it's dependencies.
 
 ![UnityHub](img/UnityHub.png)
 
-2. Activating Lisense
+2. **Activating Lisense**
    
    After installation of Unity hub it's time to activate lisence. For the development process we have to add a lisense of Unity to Unity hub.
 
@@ -22,7 +22,7 @@ First of all we need to setup the infrastructure and other necessary dependencie
 
 ![Act_Lis](img/Act_Lis_2.png)
 
-3. Download Unity lts(long term support) version.
+3. **Download Unity lts(long term support) version.**
    
    After installing Unity hub on your machine it's time to install Unity and other dependencies. We should always install **lts** version as it provides the support for next 5 years from the year of it's release. In my case I'll be installing 2019.4.20f1.
 
@@ -34,15 +34,15 @@ First of all we need to setup the infrastructure and other necessary dependencie
 
 ![Install](img/Install_2.png)
 
-    Step 3. Selecting the modules. 
-    
-    I'am on `Linux` so I have to get **Linux Build Suport**.
+   Step 3. Selecting the modules. 
+   
+   I'am on Linux so I have to get Linux Build Suport.
 
 ![Install](img/Install_3.png)
 
-    Step 4. Accept the user agreement and done.
+   Step 4. Accept the user agreement and done.
 
-4. Installing VSCode as our code editor.
+4. **Installing VSCode as our code editor.**
 
    Visit this quick video to install VSCode : [Link](https://www.youtube.com/watch?v=QXzYV3miuy4)
 
