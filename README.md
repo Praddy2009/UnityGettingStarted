@@ -11,3 +11,5 @@ We'll divide our module as:
 - [ ] [Exploring AR persepective]()
 
 A big shoutout to [XoRphilic]() for introducing me to the world of Augmented Reality and all the content creators for the superawesome free contents.
+
+If you need detailed documentation then do visit the official [documentation](https://docs.unity3d.com/Manual/) by Unity.

@@ -50,4 +50,4 @@ First of all we need to setup the infrastructure and other necessary dependencie
 
     You can also visit [Link](https://www.youtube.com/watch?v=eHgh50G1E2A) to watch full installation video. Credits XoRphilic
 
-And we are done with the initial setup it's time to [Understandin Interfaces](../Interface/README.md) 
+And we are done with the initial setup it's time to [Understanding Interfaces](../Interface/README.md) 
