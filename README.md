@@ -6,8 +6,9 @@ Here We'll try to compile the day wise learning for [Unity](https://unity.com/) 
 We'll divide our module as:
 
 - [X] [Installing Unity & dependencies](Installing/README.md)
-- [ ] [Understanding Interface]()
-- [ ] [Understanding UI elements]() 
+- [X] [Understanding Interface](Interface/README.md)
+- [ ] [Understanding UI elements]()
+- [ ] [Let's See Sharp(C#)]() 
 - [ ] [Exploring AR persepective]()
 
 A big shoutout to [XoRphilic]() for introducing me to the world of Augmented Reality and all the content creators for the superawesome free contents.

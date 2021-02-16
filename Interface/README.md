@@ -41,10 +41,26 @@ Let's understand its properties as shown in inspector panel(In case of Built-in 
 
 ![Install](img/Cam_Ins.png)
 
-    - **Tag** : Tag can be assigned to one or more gameobject which help us to access that group under that tag during scripting. For ex:All the collectable in a game can be tagged as collectables.
-    - **Layer** : It enable us to group gameobjects under layer name and then uses Culling Mask option to render those layers only from a scene.
-    - **Clear Flags** : Determines what will be the background type. By default it's skybox but sometime we also use solid colour.
-    - **Background**  : After all the game elements are rendered then the left-out places are filled with this colour(in absence of Skybox)
-    - **Culling Mask** : We can use it to ommit the rendering of any specific onjects by camera.(i.e. ho ke bhi render nahi hoga)
-    - **Clipping Planes** :  Describes the distance from camera to start or stop rendering.(Think of games where buildings appear after we move in that direction)
+-**Tag** : Tag can be assigned to one or more gameobject which help us to access that group under that tag during scripting. For ex:All the collectable in a game can be tagged as collectables.
+-**Layer** : It enable us to group gameobjects under layer name and then uses Culling Mask option to render those layers only from a scene.
+-**Clear Flags** : Determines what will be the background type. By default it's skybox but sometime we also use solid colour.
+-**Background**  : After all the game elements are rendered then the left-out places are filled with this colour(in absence of Skybox)
+-**Culling Mask** : We can use it to ommit the rendering of any specific onjects by camera.(i.e. ho ke bhi render nahi hoga)
+-**Clipping Planes** :  Describes the distance from camera to start or stop rendering.(Think of games where buildings appear after we move in that direction)
 
+> Inserting a GameObject
+
+  Use right click to see the Game objects we can add to the game.
+
+> Properties of GameObject
+
+  1. **Box-Collider** :  It act's as the actual boundary of the game  object 
+
+  ![BoxCollider](img/BoxCollider.png)
+
+  2. **Rigidbody** : We add it as component. It adds physics to the RigidBody.
+
+  ![BoxCollider](img/Rigid.gif)
+
+
+  If you need detailed documentation then do visit the official [documentation](https://docs.unity3d.com/Manual/) by Unity.
