@@ -13,25 +13,29 @@ I will not be telling you the names of various panels as it's mentioned on the t
 > Navigation Keys
 
 "The better you navigate the better you can create". Let's learn the hot keys and shortcuts to navigate in scene panel.
-    - **Middle-Mouse drag** : To drag the view
-    - **Middle-Mouse Scroll** : To zoom in and out
-    - **Right-Click drag** : To rotate 
-    - **Hold Right-Click + W|A|S|D** : To do walk navigation
+   
+   - **Middle-Mouse drag** : To drag the view
+   - **Middle-Mouse Scroll** : To zoom in and out
+   - **Right-Click drag** : To rotate 
+   - **Hold Right-Click + W|A|S|D** : To do walk navigation
 
 These things will help you navigate better during the whole work. ry and play with these hot keys to get acoustomed.
 
 > Modifier Keys
 
 When we need to drag, relocate or resize game objects we need to know about these modifier keys.Click on any game object listed in Hierarchy panel and use these keys:
-    - **W** : Move Tool
-    - **E** : Rotate Tool
-    - **R** : Scale Tool
+    
+   - **W** : Move Tool
+   - **E** : Rotate Tool
+   - **R** : Scale Tool
 
 ![Install](img/Navigate.png)
 
 The same changes can be done from two places after selecting the object
 
 ![Install](img/Navigation2.png)
+
+
 
 > Main Camera
 
@@ -41,12 +45,12 @@ Let's understand its properties as shown in inspector panel(In case of Built-in 
 
 ![Install](img/Cam_Ins.png)
 
--**Tag** : Tag can be assigned to one or more gameobject which help us to access that group under that tag during scripting. For ex:All the collectable in a game can be tagged as collectables.
--**Layer** : It enable us to group gameobjects under layer name and then uses Culling Mask option to render those layers only from a scene.
--**Clear Flags** : Determines what will be the background type. By default it's skybox but sometime we also use solid colour.
--**Background**  : After all the game elements are rendered then the left-out places are filled with this colour(in absence of Skybox)
--**Culling Mask** : We can use it to ommit the rendering of any specific onjects by camera.(i.e. ho ke bhi render nahi hoga)
--**Clipping Planes** :  Describes the distance from camera to start or stop rendering.(Think of games where buildings appear after we move in that direction)
+- **Tag** : Tag can be assigned to one or more gameobject which help us to access that group under that tag during scripting. For ex:All the collectable in a game can be tagged as collectables.
+- **Layer** : It enable us to group gameobjects under layer name and then uses Culling Mask option to render those layers only from a scene.
+- **Clear Flags** : Determines what will be the background type. By default it's skybox but sometime we also use solid colour.
+- **Background**  : After all the game elements are rendered then the left-out places are filled with this colour(in absence of Skybox)
+- **Culling Mask** : We can use it to ommit the rendering of any specific onjects by camera.(i.e. ho ke bhi render nahi hoga)
+- **Clipping Planes** :  Describes the distance from camera to start or stop rendering.(Think of games where buildings appear after we move in that direction)
 
 > Inserting a GameObject
 
