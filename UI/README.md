@@ -69,7 +69,7 @@ So let's learn about our target:
 
 We want to take an image and add it as element on our base background and our final output should look something like this:
 
-![Img](img/Image Adding.png)
+![Img](img/Image_Adding.png)
 
 So let's first drag drop our image asset to unity assests area Or you can also import is by right clicking.
 
@@ -81,7 +81,7 @@ Step 1: Its time to covert the inported png/jpg/jpeg etc to sprite format. As un
 
 Step 2: Now we add one more image game object under canvas and do the changes according to need. In this case I'am making anchor preset to top left.And afer giving it `PosX` `PosY` we give it proper weidth and height.
 
-![Img](img/final.png)
+![Img](img/Final.png)
 
 Now you learnt how to add the UI elements it's time you start creating your UI. For a quicker look you can also visit [here](https://www.youtube.com/watch?v=zc8ac_qUXQY)
 
