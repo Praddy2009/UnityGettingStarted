@@ -7,7 +7,7 @@ We'll divide our module as:
 
 - [X] [Installing Unity & dependencies](Installing/README.md)
 - [X] [Understanding Interface](Interface/README.md)
-- [ ] [Understanding UI elements]()
+- [X] [Understanding UI elements](UI/README.md)
 - [ ] [Let's See Sharp(C#)]() 
 - [ ] [Exploring AR persepective]()
 
