@@ -83,6 +83,8 @@ Step 2: Now we add one more image game object under canvas and do the changes ac
 
 ![Img](img/Final.png)
 
+`Pro Tip:` Always take high resolution vector images so that the edges of the images donot blur.
+
 Now you learnt how to add the UI elements it's time you start creating your UI. For a quicker look you can also visit [here](https://www.youtube.com/watch?v=zc8ac_qUXQY)
 
-Feel free to contribute in this repo for Other UI elements like BUtton etc.
+Feel free to contribute in this repo for Other UI elements like Button etc.
