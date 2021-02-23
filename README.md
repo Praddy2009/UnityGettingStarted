@@ -8,7 +8,7 @@ We'll divide our module as:
 - [X] [Installing Unity & dependencies](Installing/README.md)
 - [X] [Understanding Interface](Interface/README.md)
 - [X] [Understanding UI elements](UI/README.md)
-- [ ] [Let's See Sharp(C#)]() 
+- [ ] [Let's See Sharp(C#)](C#/README.md) 
 - [ ] [Exploring AR persepective]()
 
 A big shoutout to [XoRphilic]() for introducing me to the world of Augmented Reality and all the content creators for the superawesome free contents.
